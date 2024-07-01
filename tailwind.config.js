@@ -11,7 +11,7 @@ export default {
     extend: {
       backgroundImage: (theme) => ({
         pattern:
-          "url('https://i.pinimg.com/564x/5c/e7/eb/5ce7eb8880fbd424397323747d477fbb.jpg')",
+          "url('https://i.pinimg.com/originals/90/2f/b6/902fb683da6e99129aa43990f81607cd.gif')",
       }),
     },
   },
